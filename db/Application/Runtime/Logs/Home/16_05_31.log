@@ -1,0 +1,170 @@
+[ 2016-05-31T00:02:01+08:00 ] ::1 /db/index.php/Home/Query/query
+ERR: 1054:Unknown column '数据库原理' in 'where clause'
+ [ SQL语句 ] : select * from students where sid in (select sid from selectedcourse where cid in (select cid from courses where cname = 数据库原理))
+
+[ 2016-05-31T00:02:53+08:00 ] ::1 /db/index.php/Home/Query/query
+ERR: 1054:Unknown column '数据库原理' in 'where clause'
+ [ SQL语句 ] : select * from students where sid in (select sid from selectedcourse where cid in (select cid from courses where cname = 数据库原理))
+
+[ 2016-05-31T00:04:16+08:00 ] ::1 /db/index.php/Home/Query/query
+ERR: 1054:Unknown column '数据库原理' in 'where clause'
+ [ SQL语句 ] : select * from students where sid in (select sid from selectedcourse where cid in (select cid from courses where cname = 数据库原理))
+
+[ 2016-05-31T00:04:45+08:00 ] ::1 /db/index.php/Home/Query/query
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL语句 ] : select * from students where sid in (select sid from selectedcourse where cid in (select cid from courses where cname = '数据库原理)')
+
+[ 2016-05-31T00:08:03+08:00 ] ::1 /db/index.php/Home/Query/query
+ERR: 1054:Unknown column '张三' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `students` WHERE ( sname = 张三 ) 
+
+[ 2016-05-31T00:10:05+08:00 ] ::1 /db/index.php/Home/Query/query
+ERR: 1054:Unknown column '张三' in 'where clause'
+ [ SQL语句 ] : SELECT `sid` FROM `students` WHERE ( sname = 张三 ) LIMIT 1  
+
+[ 2016-05-31T00:10:35+08:00 ] ::1 /db/index.php/Home/Query/query
+ERR: 1054:Unknown column '张三' in 'where clause'
+ [ SQL语句 ] : SELECT `sid` FROM `students` WHERE ( sname = 张三 ) LIMIT 1  
+
+[ 2016-05-31T00:13:57+08:00 ] ::1 /db/index.php/Home/Query/query
+ERR: 1054:Unknown column '郭仁杰' in 'where clause'
+ [ SQL语句 ] : SELECT `sid` FROM `students` WHERE ( sname = 郭仁杰 ) LIMIT 1  
+
+[ 2016-05-31T00:14:28+08:00 ] ::1 /db/index.php/Home/Query/query
+ERR: 1054:Unknown column '郭仁杰' in 'where clause'
+ [ SQL语句 ] : SELECT `sid` FROM `students` WHERE ( sname = 郭仁杰 ) LIMIT 1  
+
+[ 2016-05-31T00:15:36+08:00 ] ::1 /db/index.php/Home/Query/query
+ERR: 1054:Unknown column '张三' in 'where clause'
+ [ SQL语句 ] : SELECT `sid` FROM `students` WHERE ( sname = 张三 ) LIMIT 1  
+
+[ 2016-05-31T00:16:06+08:00 ] ::1 /db/index.php/Home/Query/query
+ERR: 1054:Unknown column '张三' in 'where clause'
+ [ SQL语句 ] : SELECT `sid` FROM `students` WHERE ( sname = 张三 ) LIMIT 1  
+
+[ 2016-05-31T00:18:21+08:00 ] ::1 /db/index.php/Home/Query/query
+ERR: 1054:Unknown column '张' in 'where clause'
+ [ SQL语句 ] : SELECT `sid` FROM `students` WHERE ( sname = 张 ) LIMIT 1  
+
+[ 2016-05-31T00:20:04+08:00 ] ::1 /db/index.php/Home/Query/query
+ERR: 1054:Unknown column '张三' in 'where clause'
+ [ SQL语句 ] : SELECT `sid` FROM `students` WHERE ( sname = 张三 ) LIMIT 1  
+
+[ 2016-05-31T00:20:27+08:00 ] ::1 /db/index.php/Home/Query/query
+ERR: 1054:Unknown column '郭仁杰' in 'where clause'
+ [ SQL语句 ] : SELECT `sid` FROM `students` WHERE ( sname = 郭仁杰 ) LIMIT 1  
+
+[ 2016-05-31T00:20:50+08:00 ] ::1 /db/index.php/Home/Query/query
+ERR: 1054:Unknown column '张宇驰' in 'where clause'
+ [ SQL语句 ] : SELECT `sid` FROM `students` WHERE ( sname = 张宇驰 ) LIMIT 1  
+
+[ 2016-05-31T00:21:11+08:00 ] ::1 /db/index.php/Home/Query/query
+ERR: 1054:Unknown column '张三' in 'where clause'
+ [ SQL语句 ] : SELECT `sid` FROM `students` WHERE ( sname = 张三 ) LIMIT 1  
+
+[ 2016-05-31T00:21:41+08:00 ] ::1 /db/index.php/Home/Query/query
+ERR: 1054:Unknown column '张三' in 'where clause'
+ [ SQL语句 ] : SELECT `sid` FROM `students` WHERE ( sname = 张三 ) LIMIT 1  
+
+[ 2016-05-31T00:23:01+08:00 ] ::1 /db/index.php/Home/Query/query
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : select * from courses where cid = 1001)
+
+[ 2016-05-31T00:23:26+08:00 ] ::1 /db/index.php/Home/Query/query
+ERR: 1054:Unknown column '张三' in 'where clause'
+ [ SQL语句 ] : SELECT `sid` FROM `students` WHERE ( sname = `张三` ) LIMIT 1  
+
+[ 2016-05-31T00:25:10+08:00 ] ::1 /db/index.php/Home/Query/query
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : select * from courses where cid = 1001)
+
+[ 2016-05-31T00:26:49+08:00 ] ::1 /db/index.php/Home/Query/query
+ERR: 1054:Unknown column '郭仁杰' in 'where clause'
+ [ SQL语句 ] : SELECT `sid` FROM `students` WHERE ( sname = 郭仁杰 ) LIMIT 1  
+
+[ 2016-05-31T00:27:16+08:00 ] ::1 /db/index.php/Home/Query/query
+ERR: 1054:Unknown column '郭仁杰' in 'where clause'
+ [ SQL语句 ] : SELECT `sid` FROM `students` WHERE ( sname = 郭仁杰 ) LIMIT 1  
+
+[ 2016-05-31T08:39:45+08:00 ] ::1 /db/index.php/Home/Query/query
+ERR: 1146:Table 'db_homework.selected_course' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `selected_course`
+
+[ 2016-05-31T08:40:17+08:00 ] ::1 /db/index.php/Home/Query/query
+ERR: 1054:Unknown column 'score' in 'field list'
+ [ SQL语句 ] : SELECT `score` FROM `selectedcourse` WHERE ( sid = 3014218001 AND cid = 1001 ) LIMIT 1  
+
+[ 2016-05-31T08:54:16+08:00 ] ::1 /db/index.php/Home/Query/query
+ERR: 1054:Unknown column '数据库原理' in 'where clause'
+ [ SQL语句 ] : SELECT `cid` FROM `courses` WHERE ( cname = 数据库原理 ) LIMIT 1  
+
+[ 2016-05-31T08:54:46+08:00 ] ::1 /db/index.php/Home/Query/query
+ERR: 1054:Unknown column '数据库原理' in 'where clause'
+ [ SQL语句 ] : SELECT `scores` FROM `selectedcourse` WHERE ( sid = 3014218001 AND cid = 数据库原理 ) LIMIT 1  
+
+[ 2016-05-31T08:54:56+08:00 ] ::1 /db/index.php/Home/Query/query
+ERR: 1054:Unknown column '数据库原理' in 'where clause'
+ [ SQL语句 ] : SELECT `scores` FROM `selectedcourse` WHERE ( sid = 3014218001 AND cid = 数据库原理 ) LIMIT 1  
+
+[ 2016-05-31T08:59:12+08:00 ] ::1 /db/index.php/Home/Query/query
+ERR: 1054:Unknown column '张宇驰' in 'where clause'
+ [ SQL语句 ] : SELECT `sid` FROM `students` WHERE ( sname = 张宇驰 ) LIMIT 1  
+
+[ 2016-05-31T09:00:10+08:00 ] ::1 /db/index.php/Home/Query/query
+ERR: 1054:Unknown column '张三' in 'where clause'
+ [ SQL语句 ] : SELECT `sid` FROM `students` WHERE ( sname = 张三 ) LIMIT 1  
+
+[ 2016-05-31T09:00:43+08:00 ] ::1 /db/index.php/Home/Query/query
+ERR: 1054:Unknown column '张三' in 'where clause'
+ [ SQL语句 ] : SELECT `sid` FROM `students` WHERE ( sname = 张三 ) LIMIT 1  
+
+[ 2016-05-31T09:03:52+08:00 ] ::1 /db/index.php/Home/Query/query
+ERR: 1054:Unknown column '张宇驰' in 'where clause'
+ [ SQL语句 ] : SELECT `scores` FROM `selectedcourse` WHERE ( sid = 张宇驰 AND cid = 1001 ) LIMIT 1  
+
+[ 2016-05-31T09:04:25+08:00 ] ::1 /db/index.php/Home/Query/query
+ERR: 1054:Unknown column '张宇驰' in 'where clause'
+ [ SQL语句 ] : SELECT `scores` FROM `selectedcourse` WHERE ( sid = 张宇驰 AND cid = 1001 ) LIMIT 1  
+
+[ 2016-05-31T09:04:37+08:00 ] ::1 /db/index.php/Home/Query/query
+ERR: 1054:Unknown column '张宇驰' in 'where clause'
+ [ SQL语句 ] : SELECT `scores` FROM `selectedcourse` WHERE ( sid = 张宇驰 AND cid = 1001 ) LIMIT 1  
+
+[ 2016-05-31T10:59:47+08:00 ] ::1 /db/index.php/Home/Grade/studentAverage
+ERR: 非法操作:studentAverage
+
+[ 2016-05-31T11:13:40+08:00 ] ::1 /db/index.php/Home/Grade/classesAverage
+ERR: Think\Controller:dispaly方法不存在！
+
+[ 2016-05-31T11:13:52+08:00 ] ::1 /db/index.php/Home/Grade/classesAverage
+ERR: 模板不存在:./Application/Home/View/Grade/classesAverage.html
+
+[ 2016-05-31T17:30:48+08:00 ] ::1 /db/index.php/Home/Edit/delete?sid=3014218001
+ERR: 非法操作:delete
+
+[ 2016-05-31T18:00:50+08:00 ] ::1 /db/index.php/Home/Edit/deleteStudentInfo?cid=1001
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : DELETE FROM `students` WHERE ( sid =  )
+
+[ 2016-05-31T20:22:00+08:00 ] ::1 /db/index.php/Home/Edit/deleteSelectedCourse?cid=1003&&sid=3014218001
+ERR: 1146:Table 'db_homework.selected_course' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `selected_course`
+
+[ 2016-05-31T20:34:50+08:00 ] ::1 /db/index.php/Home/Edit/changeStudentInfo?sid=3014218001&&sname=%E5%BC%A0%E4%B8%89&&sex=%E7%94%B7&&schoolAge=20&&schoolYear=2014&&class={class}
+ERR: 非法操作:changeStudentInfo
+
+[ 2016-05-31T20:35:53+08:00 ] ::1 /db/index.php/Home/Edit/editStudentInfo?sid=3014218001&&sname=%E5%BC%A0%E4%B8%89&&sex=%E7%94%B7&&schoolAge=20&&schoolYear=2014&&class={class}
+ERR: 模板不存在:./Application/Home/View/Edit/edit_student_info.html
+
+[ 2016-05-31T22:40:33+08:00 ] ::1 /db/index.php/Home/Query/query
+ERR: 1054:Unknown column 'score' in 'field list'
+ [ SQL语句 ] : SELECT `score` FROM `selectedcourse` WHERE ( cid = 1001 ) LIMIT 1  
+
+[ 2016-05-31T23:24:21+08:00 ] ::1 /db/index.php/Home/Query/query
+ERR: 1054:Unknown column '数据库原理' in 'where clause'
+ [ SQL语句 ] : select scores from selectedcourse where cid in (select cid from courses where cname = 数据库原理)
+
+[ 2016-05-31T23:26:07+08:00 ] ::1 /db/index.php/Home/Query/query
+ERR: 1054:Unknown column '数据库原理' in 'where clause'
+ [ SQL语句 ] : select scores from selectedcourse where cid in (select cid from courses where cname = 数据库原理)
+

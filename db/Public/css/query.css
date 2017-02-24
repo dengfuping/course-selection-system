@@ -1,0 +1,45 @@
+body{
+    font-family: "Microsoft YaHei", sans-serif;
+}
+
+#slide{
+    color: #ffffff;
+    text-align: center;
+    height: 605px;
+    background: url("../img/query_background.jpg");
+}
+
+#filter{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.5);
+    padding: 40px 0;
+}
+
+#slide h1{
+    font-weight: bold;
+    margin-top: 80px;
+    margin-bottom: 15px;
+}
+
+#slide p{
+    font-weight: 400;
+    line-height: 30px;
+    font-size: 16px;
+}
+
+#studentAverage,#courseAverage,#classAverage,#courseGradeDistribution{
+    margin-top: 80px;
+    font-size: 17px;
+}
+
+#addStudent,#addCourse,#quit{
+    width: 128px;
+    height: 38px;
+    margin-top: 30px;
+    font-size: 17px;
+}
+
+
+
+

@@ -1,0 +1,36 @@
+[ 2016-06-03T00:03:13+08:00 ] ::1 /db/index.php/Home/Login/index.html
+ERR: 非法操作:index
+
+[ 2016-06-03T00:03:17+08:00 ] ::1 /db/index.php/Home/Login/index.html
+ERR: 非法操作:index
+
+[ 2016-06-03T00:03:36+08:00 ] ::1 /db/index.php/Home/Login
+ERR: 非法操作:index
+
+[ 2016-06-03T00:03:59+08:00 ] ::1 /db/index.php/Home/Login/logou
+ERR: 非法操作:logou
+
+[ 2016-06-03T00:06:26+08:00 ] ::1 /db/index.php/Home/Login/logout2.html
+ERR: 模板不存在:./Application/Home/View/Login/login.html
+
+[ 2016-06-03T00:07:08+08:00 ] ::1 /db/index.php/Home/Login/logout2.html
+ERR: 模板不存在:./Application/Home/View/Login/login.html
+
+[ 2016-06-03T00:07:09+08:00 ] ::1 /db/index.php/Home/Login/logout2.html
+ERR: 模板不存在:./Application/Home/View/Login/login.html
+
+[ 2016-06-03T00:19:08+08:00 ] ::1 /db/index.php/Home/Index/Home/Login/login?username=admin&password=admin
+ERR: 非法操作:Home
+
+[ 2016-06-03T00:20:02+08:00 ] ::1 /db/index.php/Home/Index/Home/Login/login?username=admin&password=admin
+ERR: 非法操作:Home
+
+[ 2016-06-03T00:22:39+08:00 ] ::1 /db/index.php/Home/Login/index.html
+ERR: 非法操作:index
+
+[ 2016-06-03T00:22:48+08:00 ] ::1 /db/index.php/Home/Login/index.html
+ERR: 非法操作:index
+
+[ 2016-06-03T00:24:59+08:00 ] ::1 /db/index.php/Home/Index/Home/Login/login?username=admin&password=admin
+ERR: 非法操作:Home
+

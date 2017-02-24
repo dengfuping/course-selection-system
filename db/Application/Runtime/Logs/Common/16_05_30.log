@@ -1,0 +1,18 @@
+[ 2016-05-30T16:49:44+08:00 ] ::1 /db/index.php/db/index.php/Home/Login/index.html.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001074s ]
+ERR: 无法加载模块:Db
+
+[ 2016-05-30T16:50:33+08:00 ] ::1 /db/index.php/db/index.php/Home/Login/index.html.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001180s ]
+ERR: 无法加载模块:Db
+
+[ 2016-05-30T16:50:36+08:00 ] ::1 /db/index.php/db/index.php/Home/Login/index.html.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001056s ]
+ERR: 无法加载模块:Db
+

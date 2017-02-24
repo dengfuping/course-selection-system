@@ -1,0 +1,234 @@
+[ 2016-04-30T18:27:03+08:00 ] ::1 /db/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000876s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-04-30T23:23:02+08:00 ] ::1 /db/Application/Home/View/Course/__PUBLIC__/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011503s ]
+ERR: 无法加载模块:Application
+
+[ 2016-04-30T23:23:02+08:00 ] ::1 /db/Application/Home/View/Course/__ROOT__/Public/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000883s ]
+ERR: 无法加载模块:Application
+
+[ 2016-04-30T23:23:02+08:00 ] ::1 /db/Application/Home/View/Course/__PUBLIC__/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001140s ]
+ERR: 无法加载模块:Application
+
+[ 2016-04-30T23:23:03+08:00 ] ::1 /db/Application/Home/View/Course/__PUBLIC__/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001466s ]
+ERR: 无法加载模块:Application
+
+[ 2016-04-30T23:23:05+08:00 ] ::1 /db/Application/Home/View/Course/__PUBLIC__/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001088s ]
+ERR: 无法加载模块:Application
+
+[ 2016-04-30T23:23:05+08:00 ] ::1 /db/Application/Home/View/Course/__PUBLIC__/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001041s ]
+ERR: 无法加载模块:Application
+
+[ 2016-04-30T23:23:05+08:00 ] ::1 /db/Application/Home/View/Course/__PUBLIC__/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000783s ]
+ERR: 无法加载模块:Application
+
+[ 2016-04-30T23:23:05+08:00 ] ::1 /db/Application/Home/View/Course/__ROOT__/Public/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000746s ]
+ERR: 无法加载模块:Application
+
+[ 2016-04-30T23:24:00+08:00 ] ::1 /db/Application/Home/View/Course/__ROOT__/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005520s ]
+ERR: 无法加载模块:Application
+
+[ 2016-04-30T23:24:00+08:00 ] ::1 /db/Application/Home/View/Course/__PUBLIC__/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001130s ]
+ERR: 无法加载模块:Application
+
+[ 2016-04-30T23:24:00+08:00 ] ::1 /db/Application/Home/View/Course/__ROOT__/Public/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000959s ]
+ERR: 无法加载模块:Application
+
+[ 2016-04-30T23:24:00+08:00 ] ::1 /db/Application/Home/View/Course/__PUBLIC__/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000982s ]
+ERR: 无法加载模块:Application
+
+[ 2016-04-30T23:24:01+08:00 ] ::1 /db/Application/Home/View/Course/__PUBLIC__/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000831s ]
+ERR: 无法加载模块:Application
+
+[ 2016-04-30T23:24:01+08:00 ] ::1 /db/Application/Home/View/Course/__ROOT__/Public/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001048s ]
+ERR: 无法加载模块:Application
+
+[ 2016-04-30T23:24:01+08:00 ] ::1 /db/Application/Home/View/Course/__ROOT__/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001524s ]
+ERR: 无法加载模块:Application
+
+[ 2016-04-30T23:24:01+08:00 ] ::1 /db/Application/Home/View/Course/__PUBLIC__/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000822s ]
+ERR: 无法加载模块:Application
+
+[ 2016-04-30T23:24:01+08:00 ] ::1 /db/Application/Home/View/Course/__ROOT__/Public/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001203s ]
+ERR: 无法加载模块:Application
+
+[ 2016-04-30T23:24:01+08:00 ] ::1 /db/Application/Home/View/Course/__PUBLIC__/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000986s ]
+ERR: 无法加载模块:Application
+
+[ 2016-04-30T23:24:01+08:00 ] ::1 /db/Application/Home/View/Course/__PUBLIC__/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001212s ]
+ERR: 无法加载模块:Application
+
+[ 2016-04-30T23:24:01+08:00 ] ::1 /db/Application/Home/View/Course/__ROOT__/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001307s ]
+ERR: 无法加载模块:Application
+
+[ 2016-04-30T23:24:01+08:00 ] ::1 /db/Application/Home/View/Course/__PUBLIC__/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000987s ]
+ERR: 无法加载模块:Application
+
+[ 2016-04-30T23:24:01+08:00 ] ::1 /db/Application/Home/View/Course/__ROOT__/Public/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009804s ]
+ERR: 无法加载模块:Application
+
+[ 2016-04-30T23:24:01+08:00 ] ::1 /db/Application/Home/View/Course/__PUBLIC__/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000869s ]
+ERR: 无法加载模块:Application
+
+[ 2016-04-30T23:24:01+08:00 ] ::1 /db/Application/Home/View/Course/__ROOT__/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001122s ]
+ERR: 无法加载模块:Application
+
+[ 2016-04-30T23:25:37+08:00 ] ::1 /db/Application/Home/View/Course/__PUBLIC__/Public/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001318s ]
+ERR: 无法加载模块:Application
+
+[ 2016-04-30T23:25:37+08:00 ] ::1 /db/Application/Home/View/Course/__PUBLIC__/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000819s ]
+ERR: 无法加载模块:Application
+
+[ 2016-04-30T23:25:37+08:00 ] ::1 /db/Application/Home/View/Course/__PUBLIC__/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001195s ]
+ERR: 无法加载模块:Application
+
+[ 2016-04-30T23:25:37+08:00 ] ::1 /db/Application/Home/View/Course/__PUBLIC__/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002314s ]
+ERR: 无法加载模块:Application
+
+[ 2016-04-30T23:25:39+08:00 ] ::1 /db/Application/Home/View/Course/__PUBLIC__/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001620s ]
+ERR: 无法加载模块:Application
+
+[ 2016-04-30T23:25:39+08:00 ] ::1 /db/Application/Home/View/Course/__PUBLIC__/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001340s ]
+ERR: 无法加载模块:Application
+
+[ 2016-04-30T23:25:39+08:00 ] ::1 /db/Application/Home/View/Course/__PUBLIC__/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000823s ]
+ERR: 无法加载模块:Application
+
+[ 2016-04-30T23:25:39+08:00 ] ::1 /db/Application/Home/View/Course/__PUBLIC__/Public/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001042s ]
+ERR: 无法加载模块:Application
+
+[ 2016-04-30T23:28:31+08:00 ] ::1 /db/Public/Public/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001072s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-30T23:28:41+08:00 ] ::1 /db/Public/Public/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000846s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-30T23:28:42+08:00 ] ::1 /db/Public/Public/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000915s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-30T23:28:44+08:00 ] ::1 /db/Public/Public/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-30T23:29:19+08:00 ] ::1 /db/Public/Public/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000777s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-30T23:29:21+08:00 ] ::1 /db/Public/Public/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000823s ]
+ERR: 无法加载模块:Public
+

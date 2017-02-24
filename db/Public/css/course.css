@@ -1,0 +1,9 @@
+body{
+    font-family: "Microsoft YaHei", sans-serif;
+}
+
+.panel-body .btn{
+    width: 100px;
+    margin-right: 5px;
+    margin-bottom: 0px;
+}
