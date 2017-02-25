@@ -9,5 +9,7 @@
 
 ## 项目地址
 
-- course-selection-system：[http://db.dengfuping.name](http://db.dengfuping.name)
+- 用户名：admin
+- 密码：admin
+- course-selection-system：[http://db.dengfuping.name](http://db.dengfuping.name)（其中登陆的用户名和密码均为 admin）
 	 
